@@ -27,8 +27,7 @@ Below are screenshots of both the mobile and desktop version of this page.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://pwillems.github.io/qr-code-component-main/](https://pwillems.github.io/qr-code-component-main/)
 
 ## My process
 
